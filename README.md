@@ -32,7 +32,7 @@ REST API project for an e-commerce system, developed with Java, Spring Boot, and
 - `exceptions/` - Exception handling
 
 ## API Access
-/users — users management
-/products — products management
-/categories — categories management
-/orders — orders management
+- `/users` — users management
+- `/products` — products management
+- `/categories` — categories management
+- `/orders` — orders management
